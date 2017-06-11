@@ -1,0 +1,9 @@
+c:\users\recording\documents\visual studio 2017\Projects\DockerApp1\DockerApp1\bin\Debug\netcoreapp1.1\DockerApp1.deps.json
+c:\users\recording\documents\visual studio 2017\Projects\DockerApp1\DockerApp1\bin\Debug\netcoreapp1.1\DockerApp1.runtimeconfig.json
+c:\users\recording\documents\visual studio 2017\Projects\DockerApp1\DockerApp1\bin\Debug\netcoreapp1.1\DockerApp1.runtimeconfig.dev.json
+c:\users\recording\documents\visual studio 2017\Projects\DockerApp1\DockerApp1\bin\Debug\netcoreapp1.1\DockerApp1.dll
+c:\users\recording\documents\visual studio 2017\Projects\DockerApp1\DockerApp1\bin\Debug\netcoreapp1.1\DockerApp1.pdb
+c:\users\recording\documents\visual studio 2017\Projects\DockerApp1\DockerApp1\obj\Debug\netcoreapp1.1\DockerApp1.csprojResolveAssemblyReference.cache
+c:\users\recording\documents\visual studio 2017\Projects\DockerApp1\DockerApp1\obj\Debug\netcoreapp1.1\DockerApp1.AssemblyInfo.cs
+c:\users\recording\documents\visual studio 2017\Projects\DockerApp1\DockerApp1\obj\Debug\netcoreapp1.1\DockerApp1.dll
+c:\users\recording\documents\visual studio 2017\Projects\DockerApp1\DockerApp1\obj\Debug\netcoreapp1.1\DockerApp1.pdb
